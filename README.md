@@ -98,6 +98,6 @@
 
 ## 📄 My Resume
 
-📋 **[Download CV - English Version](./CV_Kessel_DIAROUMEYE_EN.pdf)**  
-📋 **[Download CV - Version Française](./CV_Kessel_DIAROUMEYE_FR.pdf)**
+📋 **[Download CV - English Version](./CV_ATS_Kessel_DIAROUMEYE_eng_thesis.pdf)**  
+📋 **[Download CV - Version Française](./CV_ATS_Kessel_DIAROUMEYE_fr_thesis.pdf)**
 
