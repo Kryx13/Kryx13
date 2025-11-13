@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kessel DIAROUMEYE</h1>
 <h3 align="center">Engineering student specializing in Biomedical Engineering & High-Tech Imaging</h3>
-<h4 align="center">🔬 Computer Vision | 🧬 Medical AI | 🚀 3D Reconstruction</h4>
+<h4 align="center">🔬 Computer Vision | 🧬 Medical AI | 🚀 Digital Twin</h4>
 
 
 ---
@@ -71,7 +71,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </p>
 
-**Specialized in:** Computer Vision • Medical Imaging • 3D Reconstruction • Machine Learning • Deep Learning
+**Specialized in:** Computer Vision • Medical Imaging • Digital Twin • Machine Learning • Deep Learning
 
 ---
 
