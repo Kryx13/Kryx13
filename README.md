@@ -22,7 +22,7 @@
 - 48-hour AI hackathon for medical and environmental challenges
 - **Co-founder of [KADSI](https://github.com/Kryx13/KADSI)**: Award-winning AI solution for dermatology inclusion
 
-### 💡 ** Innov'Night **
+### 💡 Innov'Night 
 **Institut Polytechnique de Paris**
 - **Brid-gen**: Intelligent chatbot for psychological support
 
